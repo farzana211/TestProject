@@ -8,3 +8,4 @@ public class tc002 {
 	}
 
 }
+Note: add body to the main class
